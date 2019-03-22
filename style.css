@@ -32,7 +32,8 @@ body {}
 .card {
     margin: auto 5px;
     width: 20%;
-    height:15rem;
+    height:30%;
+    
     transform: scale(1);
     position:relative;
     transform-style: preserve-3d;
